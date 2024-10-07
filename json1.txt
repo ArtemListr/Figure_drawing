@@ -1,0 +1,19 @@
+{
+  "timestamp": "2020-09-89 09:09:89",
+  "isOpen": false,
+  "stocks": [
+    {
+      "ticker": "APPL",
+      "open": 112.89,
+      "close": 116.89
+    }, {
+      "ticker": "GDX",
+      "open": 39,
+      "close": 40
+    }, {
+      "ticker": "TSLA",
+      "open": 419,
+      "close": 420
+    }
+  ]
+}
